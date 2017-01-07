@@ -1,0 +1,641 @@
+﻿{
+	"products": [{
+		"id": "1",
+		"name": "מוס ריבת חלב",
+		"description": "מוס ריבת חלב",
+		"img": "images/cakes/01.jpg",
+		"thumb": "images/cakes/small/01.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "2",
+		"name": "מקופלת שוקולד בלגי",
+		"description": "מקופלת שוקולד בלגי",
+		"img": "images/cakes/02.jpg",
+		"thumb": "images/cakes/small/02.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "3",
+		"name": "פיסטוק שוקולד",
+		"description": "פיסטוק שוקולד",
+		"img": "images/cakes/03.jpg",
+		"thumb": "images/cakes/small/03.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "4",
+		"name": "קדאיף וניל שוקולד",
+		"description": "קדאיף וניל שוקולד",
+		"img": "images/cakes/04.jpg",
+		"thumb": "images/cakes/small/04.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "5",
+		"name": "פאדג שוקולד",
+		"description": "פאדג שוקולד",
+		"img": "images/cakes/05.jpg",
+		"thumb": "images/cakes/small/05.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "6",
+		"name": "מקופלת וניל צרפתי",
+		"description": "מקופלת וניל צרפתי",
+		"img": "images/cakes/06.jpg",
+		"thumb": "images/cakes/small/06.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "7",
+		"name": "גבינת פירורים",
+		"description": "גבינת פירורים",
+		"img": "images/cakes/07.jpg",
+		"thumb": "images/cakes/small/07.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "8",
+		"name": "אייריש קרים",
+		"description": "אייריש קרים",
+		"img": "images/cakes/08.jpg",
+		"thumb": "images/cakes/small/08.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "9",
+		"name": "טריקולד",
+		"description": "טריקולד",
+		"img": "images/cakes/09.jpg",
+		"thumb": "images/cakes/small/09.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "10",
+		"name": "טירמיסו",
+		"description": "טירמיסו",
+		"img": "images/cakes/10.jpg",
+		"thumb": "images/cakes/small/10.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "11",
+		"name": "מאפינס במבחר טעמים",
+		"description": "מאפינס במבחר טעמים",
+		"img": "images/cakes/11.jpg",
+		"thumb": "images/cakes/small/11.jpg",
+		"category": "cakes",
+		"price": "20"
+	},
+	{
+		"id": "12",
+		"name": "עוגות בחושות",
+		"description": "עוגות בחושות",
+		"img": "images/cakes/12.jpg",
+		"thumb": "images/cakes/small/12.jpg",
+		"category": "cakes",
+		"price": "20"
+	},
+	{
+		"id": "13",
+		"name": "טריקולד",
+		"description": "טריקולד",
+		"img": "images/cakes/13.jpg",
+		"thumb": "images/cakes/small/13.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "14",
+		"name": "פיסטוק רוזמרי",
+		"description": "פיסטוק רוזמרי",
+		"img": "images/cakes/14.jpg",
+		"thumb": "images/cakes/small/14.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "15",
+		"name": "קדאיף שוקולד",
+		"description": "קדאיף שוקולד",
+		"img": "images/cakes/15.jpg",
+		"thumb": "images/cakes/small/15.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "16",
+		"name": "גבינת פסיפלורה",
+		"description": "גבינת פסיפלורה",
+		"img": "images/cakes/16.jpg",
+		"thumb": "images/cakes/small/16.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "17",
+		"name": "גבינת פירורים",
+		"description": "גבינת פירורים",
+		"img": "images/cakes/17.jpg",
+		"thumb": "images/cakes/small/17.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "18",
+		"name": "וניל פירות יער",
+		"description": "וניל פירות יער",
+		"img": "images/cakes/18.jpg",
+		"thumb": "images/cakes/small/18.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "19",
+		"name": "עוגה קוטר 26",
+		"description": "",
+		"img": "images/cakes/19.jpg",
+		"thumb": "images/cakes/small/19.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "20",
+		"name": "שוקולד חלווה",
+		"description": "",
+		"img": "images/cakes/20.jpg",
+		"thumb": "images/cakes/small/20.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "22",
+		"name": "גבינה פירות יער",
+		"description": "",
+		"img": "images/cakes/22.jpg",
+		"thumb": "images/cakes/small/22.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "23",
+		"name": "נשיקות שוקלד אגוזים",
+		"description": "",
+		"img": "images/cakes/23.jpg",
+		"thumb": "images/cakes/small/23.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "24",
+		"name": "טריקולד",
+		"description": "",
+		"img": "images/cakes/24.jpg",
+		"thumb": "images/cakes/small/24.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "25",
+		"name": "ביסקוט אייריש קרים",
+		"description": "",
+		"img": "images/cakes/25.jpg",
+		"thumb": "images/cakes/small/25.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "26",
+		"name": "היפן מאס ריבת חלב",
+		"description": "",
+		"img": "images/cakes/26.jpg",
+		"thumb": "images/cakes/small/26.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "27",
+		"name": "וניל פירות טרופיים",
+		"description": "",
+		"img": "images/cakes/27.jpg",
+		"thumb": "images/cakes/small/27.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "52",
+		"name": "פרמידת בורלה",
+		"description": "שכבות קרם בורלה ובצק מקורמל",
+		"img": "images/sweets/01.jpg",
+		"thumb": "images/sweets/small/01.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "58",
+		"name": "גבינה פירורים",
+		"description": "",
+		"img": "images/sweets/02.jpg",
+		"thumb": "images/sweets/small/02.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "59",
+		"name": "דו אייריש קרים",
+		"description": "",
+		"img": "images/sweets/03.jpg",
+		"thumb": "images/sweets/small/03.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "60",
+		"name": "טירמיסו",
+		"description": "",
+		"img": "images/sweets/04.jpg",
+		"thumb": "images/sweets/small/04.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+		{
+		"id": "61",
+		"name": "טריקולד",
+		"description": "שלוש שכבות של מוס שוקולד עשיר",
+		"img": "images/sweets/05.jpg",
+		"thumb": "images/sweets/small/05.jpg",
+		"category": "sweets",
+		"price": "20"
+	},	
+	{
+		"id": "62",
+		"name": "מוס תאנים",
+		"description": "",
+		"img": "images/sweets/06.jpg",
+		"thumb": "images/sweets/small/06.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "63",
+		"name": "מרקויה פסיפלורה",
+		"description": "",
+		"img": "images/sweets/07.jpg",
+		"thumb": "images/sweets/small/07.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "64",
+		"name": "מרקיז שוקו קראנץ",
+		"description": "",
+		"img": "images/sweets/08.jpg",
+		"thumb": "images/sweets/small/08.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "66",
+		"name": "משולש הפתעה",
+		"description": "",
+		"img": "images/sweets/09.jpg",
+		"thumb": "images/sweets/small/09.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "67",
+		"name": "נוגטינה",
+		"description": "",
+		"img": "images/sweets/10.jpg",
+		"thumb": "images/sweets/small/10.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "68",
+		"name": "פאי אגוזים",
+		"description": "",
+		"img": "images/sweets/11.jpg",
+		"thumb": "images/sweets/small/11.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "69",
+		"name": "פאי תפוחים",
+		"description": "",
+		"img": "images/sweets/12.jpg",
+		"thumb": "images/sweets/small/12.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "70",
+		"name": "פסק זמן",
+		"description": "",
+		"img": "images/sweets/13.jpg",
+		"thumb": "images/sweets/small/13.jpg",
+		"category": "sweets",
+		"price": "20"
+	},		
+	{
+		"id": "71",
+		"name": "קוקו קראנץ",
+		"description": "קרם קוקוס במילוי ריבת חלב מצופה שוקולד קריספי",
+		"img": "images/sweets/14.jpg",
+		"thumb": "images/sweets/small/14.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "42",
+		"name": "סופלה",
+		"description": "עוגת שוקולד חמה במילוי שוקולד בלגי",
+		"img": "images/sweets/15.jpg",
+		"thumb": "images/sweets/small/15.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "28",
+		"name": "קרמבו אספרסו",
+		"description": "ספירלת קרם אספרסו עם הפתעות כדור קרם בורלה מצופה בשוקולד עדין",
+		"img": "images/sweets/16.jpg",
+		"thumb": "images/sweets/small/16.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "72",
+		"name": "שוקולד",
+		"description": "",
+		"img": "images/sweets/17.jpg",
+		"thumb": "images/sweets/small/17.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "32",
+		"name": "גבינת פירות היער",
+		"description": "עוגת גבינה קרה ועשירה בגלזורה פירות יער",
+		"img": "images/sweets/18.jpg",
+		"thumb": "images/sweets/small/18.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "47",
+		"name": "פאי תפוחים צרפתי",
+		"description": "בצק פריך במילוי קרם שקדים ומניפת תפוחים",
+		"img": "images/sweets/19.jpg",
+		"thumb": "images/sweets/small/19.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "39",
+		"name": "מקופלת",
+		"description": "מוס שוקולד מקופלת שחור עם שבבי מקופלת",
+		"img": "images/sweets/20.jpg",
+		"thumb": "images/sweets/small/20.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "33",
+		"name": "גבינה ללא סוכר",
+		"description": "עוגת גבינה קרה ועשירה בגלזורה פירות יער",
+		"img": "images/sweets/21.jpg",
+		"thumb": "images/sweets/small/21.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "34",
+		"name": "פסיפלורה",
+		"description": "מוס שוקולד לבן במילוי קרם פסיפלורה עם גלזורה פסיפלורה",
+		"img": "images/sweets/22.jpg",
+		"thumb": "images/sweets/small/22.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+		{
+		"id": "35",
+		"name": "פסטשיו צרפתי",
+		"description": "שתי שכבות מוס בניחוח פיסטוק עם שבבי פיסטוק מסוכרים",
+		"img": "images/sweets/23.jpg",
+		"thumb": "images/sweets/small/23.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "36",
+		"name": "קיפוד שוקולד",
+		"description": "מוס שוקולד",
+		"img": "images/sweets/24.jpg",
+		"thumb": "images/sweets/small/24.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "40",
+		"name": "קרנץ שוקולד",
+		"description": "מוס שוקולד וניל עשיר",
+		"img": "images/sweets/25.jpg",
+		"thumb": "images/sweets/small/25.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "41",
+		"name": "מרקיז שוקולד",
+		"description": "קרם שוקולד בלגי על מצע קורנפלקס ואגוזים מסוכרים",
+		"img": "images/sweets/26.jpg",
+		"thumb": "images/sweets/small/26.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "29",
+		"name": "אמרטו",
+		"description": "מוס שקדים עדין בניחוח אמרטו",
+		"img": "images/sweets/27.jpg",
+		"thumb": "images/sweets/small/27.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "30",
+		"name": "טרימיסו",
+		"description": "מוס קפה עם ביסקוטים וקרם מסקרפונה",
+		"img": "images/sweets/28.jpg",
+		"thumb": "images/sweets/small/28.jpg",
+		"category": "sweets",
+		"price": "19"
+	},
+	{
+		"id": "51",
+		"name": "פרפה חלווה",
+		"description": "קציפת חלווה על מצע קדאיף ורוטב",
+		"img": "images/sweets/29.jpg",
+		"thumb": "images/sweets/small/29.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "50",
+		"name": "פאי אגוזים",
+		"description": "בצק פריך במילוי אגוזים וקרמל",
+		"img": "images/sweets/30.jpg",
+		"thumb": "images/sweets/small/30.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "49",
+		"name": "פאי אפרסק",
+		"description": "פאי אפרסקים עם קרם מסקרפונה",
+		"img": "images/sweets/31.jpg",
+		"thumb": "images/sweets/small/31.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "43",
+		"name": "דולסה דה לצה",
+		"description": "מוס ריבת חלב אורירי",
+		"img": "images/sweets/32.jpg",
+		"thumb": "images/sweets/small/32.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "44",
+		"name": "מוס חלווה",
+		"description": "מוס חלווה אוורירי",
+		"img": "images/sweets/33.jpg",
+		"thumb": "images/sweets/small/33.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "45",
+		"name": "מוס שוקולד ללא סוכר",
+		"description": "מוס שוקולד אורירי ללא תוספת סוכר",
+		"img": "images/sweets/34.jpg",
+		"thumb": "images/sweets/small/34.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "46",
+		"name": "פאי אפרסק",
+		"description": "בצק פריך במילוי קרם שקדים ומניפת אפרסקים",
+		"img": "images/sweets/35.jpg",
+		"thumb": "images/sweets/small/35.jpg",
+		"category": "sweets",
+		"price": "20"
+	},
+	{
+		"id": "53",
+		"name": "נשיקות",
+		"description": "",
+		"img": "images/other/01.jpg",
+		"thumb": "images/other/small/01.jpg",
+		"category": "other",
+		"price": "25"
+	},
+	{
+		"id": "54",
+		"name": "פחזניה",
+		"description": "",
+		"img": "images/other/02.jpg",
+		"thumb": "images/other/small/02.jpg",
+		"category": "other",
+		"price": "10"
+	},
+	{
+		"id": "55",
+		"name": "פחזניות",
+		"description": "",
+		"img": "images/other/03.jpg",
+		"thumb": "images/other/small/03.jpg",
+		"category": "other",
+		"price": "29"
+	},
+	{
+		"id": "56",
+		"name": "מגוון עוגיות",
+		"description": "",
+		"img": "images/other/04.jpg",
+		"thumb": "images/other/small/04.jpg",
+		"category": "other",
+		"price": "25"
+	},
+	{
+		"id": "57",
+		"name": "מגוון עוגיות נוסף",
+		"description": "",
+		"img": "images/other/06.jpg",
+		"thumb": "images/other/small/06.jpg",
+		"category": "other",
+		"price": "25"
+	},
+  	{
+		"id": "58",
+		"name": "גליליות שוקולד בלגי",
+		"description": "",
+		"img": "images/cakes/58.jpg",
+		"thumb": "images/cakes/small/58.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "59",
+		"name": "שוקו קליק",
+		"description": "",
+		"img": "images/cakes/59.jpg",
+		"thumb": "images/cakes/small/59.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "60",
+		"name": "מוס שוקולד ופקאן סיני",
+		"description": "",
+		"img": "images/cakes/60.jpg",
+		"thumb": "images/cakes/small/60.jpg",
+		"category": "cakes",
+		"price": "150"
+	},
+	{
+		"id": "61",
+		"name": "מקופלת",
+		"description": "",
+		"img": "images/cakes/61.jpg",
+		"thumb": "images/cakes/small/61.jpg",
+		"category": "cakes",
+		"price": "40"
+	},
+	{
+		"id": "62",
+		"name": "מוס שוקולד הפוך",
+		"description": "",
+		"img": "images/cakes/62.jpg",
+		"thumb": "images/cakes/small/62.jpg",
+		"category": "cakes",
+		"price": "40"
+	}]
+}

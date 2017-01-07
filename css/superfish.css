@@ -1,0 +1,160 @@
+nav {
+    position: relative;
+    margin: 0px 0 0 0;
+    z-index: 11;
+}
+
+.sf-menu {
+    box-shadow: 0 5px 14px 1px #5d1405;
+    -moz-box-shadow: 0 5px 14px 1px #5d1405;
+    -webkit-box-shadow: 0 5px 14px 1px #5d1405;
+    margin-top: 135px;
+    direction: rtl;
+}
+
+    .sf-menu ul {
+        position: absolute;
+        top: -999px;
+        display: none;
+    }
+
+    .sf-menu li {
+        position: relative;
+        padding-left: 0px;
+        float: right;
+    }
+
+    .sf-menu a {
+        display: block;
+        font-family: 'Open Sans',sans-serif;
+        font-size: 12px;
+        line-height: 15px;
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+        .sf-menu a:hover {
+            text-decoration: none;
+        }
+
+    .sf-menu > li > a {
+        display: block;
+        position: relative;
+        padding: 18px 0px;
+        background: url(../images/bg-4.gif) 0 0 no-repeat;
+        text-align: center;
+        width: 158px;
+    }
+
+    .sf-menu > li {
+        display: block;
+        background: #993320 url(../images/bg-3.gif) 0 0 repeat-x;
+    }
+
+        .sf-menu > li:hover, .sf-menu > li.current, .sf-menu > li.sfHover {
+            color: #cf3838;
+            background: url(../images/bg-5.gif) 0 0 repeat-x;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+
+            .sf-menu > li > ul, .sf-menu > li.sfHover > ul {
+                left: 0px;
+                top: 51px;
+                width: 298px;
+                z-index: 99;
+                background: #a13521;
+                padding: 30px 0 40px 0;
+                text-align: left;
+            }
+
+                .sf-menu > li > ul > li {
+                    width: 100%;
+                }
+
+                    .sf-menu > li > ul > li > a {
+                        padding: 8px 0px 8px 43px;
+                        display: block;
+                        font-size: 14px;
+                    }
+
+    .sf-menu li li a:hover, .sf-menu li.sfHover li.sfHover > a {
+        text-decoration: none;
+        color: #a13521;
+    }
+
+    .sf-menu li li:hover, .sf-menu li.sfHover li.sfHover {
+        background-color: #ffffff;
+    }
+
+    .sf-menu li li ul {
+        left: 0;
+        top: -0;
+        width: inherit;
+        z-index: 99;
+        background-color: #a13521;
+        position: relative;
+    }
+
+    .sf-menu li li li {
+        width: 100%;
+        background-color: #a13521;
+    }
+
+        .sf-menu li li li a {
+            text-decoration: none;
+            padding: 8px 0px 8px 67px;
+        }
+
+        .sf-menu li li li:hover {
+            background: #c4422a;
+        }
+
+            .sf-menu li li li:hover a {
+                color: #ffffff;
+            }
+
+@media only screen and (max-width: 995px) {
+    .sf-menu > li > a {
+        padding: 18px 0px;
+        width: 126px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .sf-menu {
+        display: none;
+    }
+
+    nav select {
+        font-family: 'Open Sans Condensed',sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ffffff;
+        background-color: #9f1212;
+        width: 100%;
+        outline: none;
+        padding: 5px;
+        border: none;
+        margin-top: 20px;
+        font-weight: normal;
+        margin-top: 135px;
+    }
+
+        nav select option:first-child {
+            color: #ffffff;
+        }
+
+    header nav, header h1 {
+        float: none;
+    }
+
+    header h1 {
+        height: 135px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+}
