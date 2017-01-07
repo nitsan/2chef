@@ -136,11 +136,12 @@ nav {
         background-color: #9f1212;
         width: 100%;
         outline: none;
-        padding: 5px;
+        padding: 10px;
         border: none;
         margin-top: 20px;
         font-weight: normal;
         margin-top: 135px;
+        direction: rtl;
     }
 
         nav select option:first-child {

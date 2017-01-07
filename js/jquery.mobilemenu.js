@@ -1,4 +1,4 @@
-(function($){var settings={prependTo:'nav',switchWidth:768,topOptionText:'Select a page:'},menuCount=0,uniqueLinks=[];function goTo(url){document.location.href=url;}
+(function($){var settings={prependTo:'nav',switchWidth:768,topOptionText:'בחר עמוד:'},menuCount=0,uniqueLinks=[];function goTo(url){document.location.href=url;}
 function menuExists(){return($('.mnav').length)?true:false;}
 function isList($this){var pass=true;$this.each(function(){if(!$(this).is('ul')&&!$(this).is('ol')){pass=false;}});return pass;}
 function isMobile(){return($(document).width()<settings.switchWidth);}
