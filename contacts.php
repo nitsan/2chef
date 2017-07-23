@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="theme-color" content="#a43506"/>
         <title>2 שף מתוקים | צור קשר</title>
         <meta charset="utf-8">
         <meta name="format-detection" content="telephone=no" />
